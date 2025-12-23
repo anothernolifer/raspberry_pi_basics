@@ -11,3 +11,8 @@ not simulated
 # raspberry pi pico 
 
 simulated through wowki
+
+
+# FOLLOWED ALONG  UDEMY COUSE
+
+Raspberry Pi For Beginners -  Complete Course
